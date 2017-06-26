@@ -27,3 +27,12 @@ If you found this task it means we are looking for you!
 - Structure! WE LOVE STRUCTURE!
 - Maybe You have an idea how it should interact with users? Do it! Its on you!
 - Have fun!
+
+
+
+# As per conversation with HR only back-end part was made. Front end is present but do not follow reuirements.
+
+As concrete functionality was not mentioned, application will show all (open and closed) issues with given owner and repository. Similar to Github.
+Can be easily extended to show issues made or assigned to logged user.
+
+To make it work, please add GIT_CLIENT_ID and GIT_CLIENT_SECRET to .env. See example at .env.example
